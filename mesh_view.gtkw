@@ -1,0 +1,31 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Sat Mar  7 13:43:16 2026
+[*]
+[dumpfile] "/home/nithin/GraphCoreX/tile_top_waveform.vcd"
+[dumpfile_mtime] "Sat Mar  7 13:38:29 2026"
+[dumpfile_size] 20055
+[savefile] "/home/nithin/GraphCoreX/mesh_view.gtkw"
+[timestart] 0
+[size] 2560 1340
+[pos] -27 -24
+*-14.880636 186500 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] noc_mesh_2x2.
+[treeopen] noc_mesh_2x2.tile11.
+[sst_width] 297
+[signals_width] 246
+[sst_expanded] 1
+[sst_vpaned_height] 414
+@28
+noc_mesh_2x2.mesh_in_valid_top_left
+@22
+noc_mesh_2x2.t0_to_t1_data[79:0]
+noc_mesh_2x2.t1_to_t3_data[79:0]
+@28
+noc_mesh_2x2.tile11.start_tile
+noc_mesh_2x2.tile11.sau_done
+@22
+noc_mesh_2x2.mesh_out_bottom_right[79:0]
+noc_mesh_2x2.global_cycle_count[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
